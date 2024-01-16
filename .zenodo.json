@@ -1,0 +1,20 @@
+{
+    "title": "Microbiome_Z_cucurbitae",
+    "description": "Analysis done on microbiome data of Zeugodacus cucurbitae larvae under different farming practices ",
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "version": "1.0",
+    "creators": [
+        {
+            "name": "Mullens, Nele",
+            "affiliation": "Royal Museum for Central Africa",
+            "orcid": "0000-0002-3054-9665"
+        }
+    ],
+    "keywords": [
+        "Microbiome",
+        "Zeugodacus cucurbitae",
+        "Metabarcoding"
+    ]
+}
